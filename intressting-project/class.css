@@ -1,0 +1,1988 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maven+Pro:wght@400;500;600&family=Oswald:wght@700&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+   
+  
+
+    }
+
+.head{
+    position: relative;
+    background-color: whitesmoke;
+    height: 100px;
+    border-radius: 1px;
+    
+}
+
+.first{
+    position: relative;
+    left:5%;
+    top: 20px;
+    font-style: italic;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+.sec{
+    position: relative;
+    width: 110px;
+    height: 6px;
+    background-color: red;
+    border-radius: 5px;
+    top: -30px;
+    left: 56px;
+}
+
+.line{
+    position: relative;
+    
+
+}
+.line ul li {
+    position: relative;
+    display: inline;
+    margin: 0 20px;
+    left: 420px;
+    top: -70px;
+ font-size: 20px;
+
+}
+
+ul li a{
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+  
+    color: black;
+    transition: 0.5s;
+    opacity: 1s;
+}
+
+ul li a:hover{
+
+
+text-decoration: underline red 2px;
+
+
+
+}
+
+
+.pic{
+    position: relative;
+    width: 100%;
+    top: -52px;
+   
+}
+
+.choice{
+    position: relative;
+    top: -700px;
+    left: 800px;
+}
+
+.ch{
+   position: relative;
+    font-size: 40px;
+    left: 0px;
+  color: white;
+}
+
+.one{
+    position: relative;
+    font-size: 20px;
+    top: 0px;
+}
+
+.two{
+    position: relative;
+    left:60px ;
+    font-size: 20px;
+    top: -10px;
+}
+
+.line1{
+    position: relative;
+    background-color: red;
+    height: 120px;
+    width: 7px;
+    border-radius: 5px;
+    left: -20px;
+    top: -140;
+}
+
+.con{
+    position: relative;
+    
+  width: 420px;
+  height: 305px;
+  top: -830px;
+  left: 360px;
+  background-color: red;
+  border-radius: 10px;
+}
+
+
+.con input{
+    position: relative;
+    border: none;
+   
+ }
+
+ .four{
+    position: relative;
+    background-color: white;
+    height: 63px;
+    width: 390px;
+    border: none;
+    border-radius: 1px;
+    top: 10px;
+    left: 16px;
+ }
+ .fa-solid{
+    position: relative;
+    top: 12px;
+    left: 10px;
+ }
+ .search{
+    position: relative;
+    height: 40px;
+    width: 320px;
+    top: 10px;
+    left: 17px;
+    
+ }
+
+ .five{
+    position: relative;
+    left: 15px;
+    background-color: white;
+    width: 190px;
+    height: 62px;
+    top: 22px;
+    border-radius: 1px;
+
+ }
+ .and{
+position: relative;
+top: 10px;
+font-size: 13px;
+color:black;
+left: 10px;
+font-style: italic;
+ }
+
+ .date{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    cursor: pointer;
+    color: black;
+
+ }
+
+ .six{
+    position: relative;
+    left: 215px;
+    background-color: white;
+    width: 190px;
+    height: 62px;
+    top: -40px;
+    border-radius: 1px;
+    cursor: pointer;
+
+ }
+ .seven{
+    position: relative;
+    left: 15px;
+    background-color: white;
+    width: 190px;
+    height: 62px;
+    top: -28px;
+    border-radius: 1px;
+    cursor: pointer;
+
+ }
+ .eight{
+    position: relative;
+   left: 215px;
+    background-color: white;
+    width: 190px;
+    height: 62px;
+    top: -90px;
+    border-radius: 1px;
+    cursor: pointer;
+
+ }
+ .btnn{
+    position: relative;
+    left: 15px;
+    background-color: white;
+    width: 390px;
+    height: 63px;
+    top: -80px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    font-style: italic;
+    cursor: pointer;
+    transition: 0.5s;
+
+ }
+ .btnn .myg{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    transition: 0.5s;
+ }
+ .btnn:hover{
+    background-color: lightslategray;
+    color: white;
+   
+    opacity: 1s;
+ }
+ 
+
+.book{
+    position: relative;
+    top: -700px;
+    left: 400px;
+}
+
+
+.line2{
+    position: relative;
+    background-color: red;
+    width: 220px;
+    height: 6px;
+    top: -860px;
+    left: 470px;
+
+}
+
+.now{
+    position: relative;
+    color: white;
+    left: 70px;
+    cursor: pointer;
+    top: -160px;
+}
+
+
+.about{
+    position: relative;
+ 
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    top: -390px;
+    left: 700px;
+}
+
+.shan{
+    position: relative;
+    left: -600px;
+    top: -70px;
+    width: 500px;
+}
+
+p{
+    position: relative;
+    top: -400px;
+}
+.strong{
+    position: relative;
+    font-size: 19px;
+    left: 30px;
+}
+h1{
+    position: relative;
+    left: 90px;
+    top: -420px;
+}
+.btnabout{
+    position: relative;
+  background-color: black;
+   top: -420px;
+color: white;
+width: 150px;
+height: 30px;
+border-radius: 5px;
+border: none;
+transition: 0.5s;
+
+}
+.btnabout:hover{
+    background-color: red;
+}
+
+.service{
+    position: relative;
+    left: 340px;
+    top: -200px;
+}
+
+
+
+.service img{
+    position: relative;
+    width: 100px;
+    top: 5px;
+}
+.kow{
+    position: relative;
+    width: 200px;
+}
+
+.k  {
+    position: relative;
+    top: -300px;
+    left: -350px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+.k img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+}
+
+.l {
+    position: relative;
+    top: -700px;
+    left: 20px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+
+.l img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+}
+.s {
+    position: relative;
+    top: -1100px;
+    left: 390px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+
+.s img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+}
+
+.a {
+    position: relative;
+    top: -1080px;
+    left: -350px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+.a img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+}
+
+.sh{
+    position: relative;
+    top: -1480px;
+    left: 20px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+
+.sh img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+
+}
+
+.lixx{
+    position: relative;
+    top: -1880px;
+    left: 390px;
+    width: 350px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+
+.lixx img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+
+}
+
+
+.k .btnk{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 70px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btnk:hover{
+background-color: red;
+}
+.btnk a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.k .fa-star{
+    position: relative;
+    left: 200px;
+    top: 40px;
+}
+
+.k .fa-bag-shopping{
+    position: relative;
+    top: 40px;
+}
+
+.k .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 40px;
+}
+
+.niro{
+    position: relative;
+    font-size: 15px;
+    top: 10px;
+    left: 70px;
+}
+
+.kk{
+    position: relative;
+    top: -30px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+
+
+.l .btnl{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 85px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btnl:hover{
+background-color: red;
+}
+.btnl a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.l .fa-star{
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+
+.l .fa-bag-shopping{
+    position: relative;
+    top: 60px;
+}
+
+.l .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 60px;
+}
+
+.mb{
+    position: relative;
+    font-size: 15px;
+    top: 20px;
+    left: 50px;
+}
+
+.ll{
+    position: relative;
+    top: -15px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+.lll{
+    position: relative;
+    left: 25px;
+}
+
+.s .btns{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 100px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btns:hover{
+background-color: black;
+}
+.btns a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.s .fa-star{
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+.s .fa-bag-shopping{
+    position: relative;
+    top: 80px;
+}
+
+.s .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 80px;
+}
+
+.mer{
+    position: relative;
+    font-size: 15px;
+    top: 30px;
+    left: 35px;
+}
+
+.ss{
+    position: relative;
+    top: -5px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+.sss{
+    position: relative;
+    left: 25px;
+}
+
+.a .btna{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 130px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btna:hover{
+background-color: red;
+}
+.btna a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.a .fa-star{
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+
+.a .fa-bag-shopping{
+    position: relative;
+    top: 100px;
+}
+
+.a .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 100px;
+}
+
+.por{
+    position: relative;
+    font-size: 15px;
+    top: 70px;
+    left: 100px;
+}
+
+.aa{
+    position: relative;
+    top: 30px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+.aaa{
+    position: relative;
+    left: 25px;
+}
+
+.sh .btnsh{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 80px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btnsh:hover{
+background-color: red;
+}
+.btnsh a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.sh .fa-star{
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+
+.sh .fa-bag-shopping{
+    position: relative;
+    top: 50px;
+}
+
+.sh .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 50px;
+}
+
+.bmw{
+    position: relative;
+    font-size: 15px;
+    top: 20px;
+    left: 35px;
+}
+
+.shh{
+    position: relative;
+    top: -20px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+.shhh{
+    position: relative;
+    left: 25px;
+}
+
+.lixx .btnlix{
+    position: relative;
+    left: 90px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    top: 100px;
+    font-style: italic;
+    transition: 0.5s;
+}
+.btnlix:hover{
+background-color: red;
+}
+.btnlix a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.lixx .fa-star{
+    position: relative;
+    left: 200px;
+    top: 70px;
+}
+
+.lixx .fa-bag-shopping{
+    position: relative;
+    top: 70px;
+}
+
+.lixx .fa-fan{
+    position: relative;
+    left: 25px;
+    top: 70px;
+}
+
+.audi{
+    position: relative;
+    font-size: 15px;
+    top: 30px;
+    left: 100px;
+}
+
+.lixxx{
+    position: relative;
+    top: -5px;
+    font-size: 11px;
+    left: 45px;
+
+}
+
+.lixxxx{
+    position: relative;
+    left: 25px;
+}
+
+.phone img{
+    position: relative;
+    width: 100%;
+    height: 80%;
+    top: -2000px;
+    left: -25px;
+}
+
+.phone p{
+    position: relative;
+    top: -2500px;
+    color: red;
+}
+
+.phone .our{
+    position: relative;
+    top: -2420px;
+    color: white;
+    left: 120px;
+}
+
+.phone .ph{
+    position: relative;
+    color: lightslategray;
+    left: 140px;
+    top: -2430px;
+
+}
+
+.phone .ne{
+    position: relative;
+    top: -2400px;
+color: white;
+left: 60px;
+font-style: italic;
+}
+
+.phone .btnphone{
+    position: relative;
+    top: -2370px;
+    left: 100px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btnphone:hover{
+    position: relative;
+    background: red;
+    color: white;
+
+}
+
+.line-phone{
+    position: relative;
+    top: -2500px;
+    width: 2px;
+    height: 45px;
+    background: red;
+    left: 40px;
+}
+
+.end{
+    position: relative;
+    background-color: black;
+    width: 100%;
+    height: 80%;
+    border-radius: 5px;
+    top: -2200px;
+    left: -25px;
+}
+
+.finish{
+    position: relative;
+    background: red;
+    height: 100px;
+    width: 100px;
+    text-align:center;
+    border-radius: 50%;
+    color: white;
+    left: 500px;
+    top: 50px;
+    
+}
+
+h5{
+   position: relative;
+   font-style: italic;
+   color: white;
+   top: 35px;
+  
+}
+
+.end-line{
+    position: relative;
+    background-color: red;
+    height: 3px;
+    width: 400px;
+    top: 100px;
+    left: 350px;
+}
+
+.end h4{
+position: relative;
+left: 490px;
+color: white;
+font-style: italic;
+font-size: 30px;
+
+}
+
+.end2{
+position: relative;
+left: 500px;
+color: lightslategray;
+top: 10px;
+left: 490px;
+
+}
+
+.end h6{
+position: relative;
+color: white;
+left: 800px;
+top: -75px;
+font-style: italic;
+font-size: 25px;
+
+}
+
+
+.end3{
+    position: relative;
+    left: 500px;
+    color: lightslategray;
+    top: -70px;
+    left: 815px;
+    
+}
+.end3:hover{
+    text-decoration: underline red;
+    cursor: pointer;
+}
+
+.end h3{
+position: relative;
+color: white;
+top: 120px;
+font-style: italic;
+left: 150px;
+
+}
+
+.end1{
+    position: relative;
+    top: 140px;
+    font-size: 10px;
+    left: 100px;
+    color: azure;
+
+
+}
+
+.fa-brands{
+    position: relative;
+    left: 500px;
+    top: 80px;
+    margin: 0 5px;
+}
+
+.end5{
+    position: relative;
+left: 500px;
+color: lightslategray;
+top: 100px;
+left: 400px;
+}
+
+@media only screen and (min-width: 1274px) {
+    .head{
+        position: relative;
+        background-color: whitesmoke;
+        height: 60px;
+        border-radius: 1px;
+        left: -65px;
+    }
+    
+    .first{
+        position: relative;
+        left:10px;
+        top: 5px;
+        font-style: italic;
+        font-size: 20px;
+    }
+    
+    h1::first-letter{
+        color: red;
+    }
+    
+    .sec{
+        position: relative;
+        width: 50px;
+        height: 2px;
+        background-color: red;
+        border-radius: 5px;
+        top: -30px;
+        left: -55px;
+    }
+    
+    .line{
+        position: relative;
+        
+    
+    }
+    .line ul li {
+        position: relative;
+        display: inline;
+        margin: 0 20px;
+        left: 120px;
+        top: -55px;
+     font-size: 15px;
+    
+    }
+    
+    ul li a{
+        position: relative;
+        text-decoration: none;
+        list-style: none;
+      
+        color: black;
+        transition: 0.5s;
+        opacity: 1s;
+    }
+    
+    ul li a:hover{
+    
+    
+    text-decoration: underline red 2px;
+    
+    
+    }
+    
+    
+    .pic{
+        position: relative;
+        width: 690px;
+        top: -52px;
+        left: -65px;
+       
+    }
+    
+    .choice{
+        position: relative;
+        top: -480px;
+        left: 430px;
+    }
+    
+    .ch{
+       position: relative;
+        font-size: 40px;
+        left: 0px;
+      color: white;
+      top: -300px;
+    }
+    
+    .one{
+        position: relative;
+        font-size: 15px;
+        top: 0px;
+    }
+    
+    .two{
+        position: relative;
+        left:60px ;
+        font-size: 15px;
+        top: -10px;
+    }
+    
+    .line1{
+        position: relative;
+        background-color: red;
+        height: 90px;
+        width: 3px;
+        border-radius: 5px;
+        left: -20px;
+        top: -100;
+    }
+    
+    .con{
+        position: relative;
+        
+      width: 300px;
+      height: 230px;
+      top: -600px;
+      left: 100px;
+      background-color: red;
+      border-radius: 10px;
+    }
+    
+    
+    .con input{
+        position: relative;
+        border: none;
+        width:150px ;
+       
+     }
+
+     .con #yo{
+        position: relative;
+        width: 110px;
+        top: -20px;
+        left: 10px;
+     }
+    
+     .four{
+        position: relative;
+        background-color: white;
+        height: 43px;
+        width: 270px;
+        border: none;
+        border-radius: 1px;
+        top: 10px;
+        left: 16px;
+     }
+     .fa-solid{
+        position: relative;
+        top: 5px;
+        left: 10px;
+     }
+     .search{
+        position: relative;
+        height: 40px;
+        width: 320px;
+        top: -0px;
+        left: 17px;
+        
+     }
+    
+     .five{
+        position: relative;
+        left: 15px;
+        background-color: white;
+        width: 135px;
+        height: 43px;
+        top: 22px;
+        border-radius: 1px;
+    
+     }
+     .and{
+    position: relative;
+    top: 0px;
+    font-size: 13px;
+    color:black;
+    left: 10px;
+    font-style: italic;
+     }
+    
+     .date{
+        position: relative;
+        top: 0px;
+        left: 0px;
+        cursor: pointer;
+        color: black;
+    
+     }
+    
+     .six{
+        position: relative;
+        left: 155px;
+        background-color: white;
+        width: 135px;
+        height: 43px;
+        top: -20px;
+        border-radius: 1px;
+        cursor: pointer;
+    
+     }
+     .seven{
+        position: relative;
+        left: 15px;
+        background-color: white;
+        width: 135px;
+        height: 43px;
+        top: -8px;
+        border-radius: 1px;
+        cursor: pointer;
+    
+     }
+     .eight{
+        position: relative;
+       left: 155px;
+        background-color: white;
+        width: 135px;
+        height: 43px;
+        top: -50px;
+        border-radius: 1px;
+        cursor: pointer;
+    
+     }
+     .btnn{
+        position: relative;
+        left: 15px;
+        background-color: white;
+        width: 270px;
+        height: 43px;
+        top: -40px;
+        color: black;
+        border-radius: 10px;
+        border: none;
+        font-style: italic;
+        cursor: pointer;
+        transition: 0.5s;
+    
+     }
+     .btnn:hover{
+        background-color: black;
+        color: white;
+        opacity: 1s;
+     }
+    
+    .book {
+        position: relative;
+        top: -450px;
+        left: 80px;
+       
+    }
+
+    
+    
+    
+    .line2{
+        position: relative;
+        background-color: red;
+        width: 220px;
+        height: 2px;
+        top: -615px;
+        left: 150px;
+    
+    }
+    
+    .now{
+        position: relative;
+        color: white;
+        left: 70px;
+        cursor: pointer;
+        top: -160px;
+    }
+    
+    
+    .about{
+        position: relative;
+     
+        width: 400px;
+        height: 600px;
+        border-radius: 10px;
+        top: -390px;
+        left: 700px;
+    }
+    
+    .shan{
+        position: relative;
+        left: -600px;
+        top: -70px;
+        width: 500px;
+    }
+    
+    p{
+        position: relative;
+        top: -400px;
+    }
+    .strong{
+        position: relative;
+        font-size: 19px;
+        left: 30px;
+    }
+    h1{
+        position: relative;
+        left: 90px;
+        top: -420px;
+    }
+    .btnabout{
+        position: relative;
+      background-color: black;
+       top: -420px;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    transition: 0.5s;
+    
+    }
+    .btnabout:hover{
+        background-color: red;
+    }
+    
+    .service{
+        position: relative;
+        left: 340px;
+        top: -200px;
+    }
+    
+    
+    
+    .service img{
+        position: relative;
+        width: 100px;
+        top: 5px;
+    }
+    .kow{
+        position: relative;
+        width: 200px;
+    }
+    
+    .k  {
+        position: relative;
+        top: -300px;
+        left: -350px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    .k img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    }
+    
+    .l {
+        position: relative;
+        top: -700px;
+        left: 20px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    
+    .l img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    }
+    .s {
+        position: relative;
+        top: -1100px;
+        left: 390px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    
+    .s img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    }
+    
+    .a {
+        position: relative;
+        top: -1080px;
+        left: -350px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    .a img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    }
+    
+    .sh{
+        position: relative;
+        top: -1480px;
+        left: 20px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    
+    .sh img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    
+    }
+    
+    .lixx{
+        position: relative;
+        top: -1880px;
+        left: 390px;
+        width: 350px;
+        background-color: #dcdcdc;
+        border: 5px black;
+        height: 400px;
+        border-radius: 5px;
+        
+        box-sizing: -10px 10px 10px  whitesmoke
+        -10px 10px 10px  whitesmoke ;
+        
+    
+    }
+    
+    .lixx img{
+        position: relative;
+        width: 300px;
+       left: 30px;
+    
+    }
+    
+    
+    .k .btnk{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 70px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btnk:hover{
+    background-color: red;
+    }
+    .btnk a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .k .fa-star{
+        position: relative;
+        left: 200px;
+        top: 40px;
+    }
+    
+    .k .fa-bag-shopping{
+        position: relative;
+        top: 40px;
+    }
+    
+    .k .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 40px;
+    }
+    
+    .niro{
+        position: relative;
+        font-size: 15px;
+        top: 10px;
+        left: 70px;
+    }
+    
+    .kk{
+        position: relative;
+        top: -30px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    
+    
+    .l .btnl{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 85px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btnl:hover{
+    background-color: red;
+    }
+    .btnl a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .l .fa-star{
+        position: relative;
+        left: 200px;
+        top: 60px;
+    }
+    
+    .l .fa-bag-shopping{
+        position: relative;
+        top: 60px;
+    }
+    
+    .l .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 60px;
+    }
+    
+    .mb{
+        position: relative;
+        font-size: 15px;
+        top: 20px;
+        left: 50px;
+    }
+    
+    .ll{
+        position: relative;
+        top: -15px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    .lll{
+        position: relative;
+        left: 25px;
+    }
+    
+    .s .btns{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 100px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btns:hover{
+    background-color: red;
+    }
+    .btns a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .s .fa-star{
+        position: relative;
+        left: 200px;
+        top: 80px;
+    }
+    
+    .s .fa-bag-shopping{
+        position: relative;
+        top: 80px;
+    }
+    
+    .s .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 80px;
+    }
+    
+    .mer{
+        position: relative;
+        font-size: 15px;
+        top: 30px;
+        left: 35px;
+    }
+    
+    .ss{
+        position: relative;
+        top: -5px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    .sss{
+        position: relative;
+        left: 25px;
+    }
+    
+    .a .btna{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 130px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btna:hover{
+    background-color: red;
+    }
+    .btna a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .a .fa-star{
+        position: relative;
+        left: 200px;
+        top: 100px;
+    }
+    
+    .a .fa-bag-shopping{
+        position: relative;
+        top: 100px;
+    }
+    
+    .a .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 100px;
+    }
+    
+    .por{
+        position: relative;
+        font-size: 15px;
+        top: 70px;
+        left: 100px;
+    }
+    
+    .aa{
+        position: relative;
+        top: 30px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    .aaa{
+        position: relative;
+        left: 25px;
+    }
+    
+    .sh .btnsh{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 80px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btnsh:hover{
+    background-color: red;
+    }
+    .btnsh a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .sh .fa-star{
+        position: relative;
+        left: 200px;
+        top: 50px;
+    }
+    
+    .sh .fa-bag-shopping{
+        position: relative;
+        top: 50px;
+    }
+    
+    .sh .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 50px;
+    }
+    
+    .bmw{
+        position: relative;
+        font-size: 15px;
+        top: 20px;
+        left: 35px;
+    }
+    
+    .shh{
+        position: relative;
+        top: -20px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    .shhh{
+        position: relative;
+        left: 25px;
+    }
+    
+    .lixx .btnlix{
+        position: relative;
+        left: 90px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        top: 100px;
+        font-style: italic;
+        transition: 0.5s;
+    }
+    .btnlix:hover{
+    background-color: red;
+    }
+    .btnlix a{
+        position: relative;
+        text-decoration: none;
+        color: black;
+        font-style: italic;
+    }
+    
+    .lixx .fa-star{
+        position: relative;
+        left: 200px;
+        top: 70px;
+    }
+    
+    .lixx .fa-bag-shopping{
+        position: relative;
+        top: 70px;
+    }
+    
+    .lixx .fa-fan{
+        position: relative;
+        left: 25px;
+        top: 70px;
+    }
+    
+    .audi{
+        position: relative;
+        font-size: 15px;
+        top: 30px;
+        left: 100px;
+    }
+    
+    .lixxx{
+        position: relative;
+        top: -5px;
+        font-size: 11px;
+        left: 45px;
+    
+    }
+    
+    .lixxxx{
+        position: relative;
+        left: 25px;
+    }
+    
+    .phone img{
+        position: relative;
+        width: 100%;
+        height: 80%;
+        top: -2000px;
+        left: -25px;
+    }
+    
+    .phone p{
+        position: relative;
+        top: -2500px;
+        color: red;
+    }
+    
+    .phone .our{
+        position: relative;
+        top: -2420px;
+        color: white;
+        left: 120px;
+    }
+    
+    .phone .ph{
+        position: relative;
+        color: lightslategray;
+        left: 140px;
+        top: -2430px;
+    
+    }
+    
+    .phone .ne{
+        position: relative;
+        top: -2400px;
+    color: white;
+    left: 60px;
+    font-style: italic;
+    }
+    
+    .phone .btnphone{
+        position: relative;
+        top: -2370px;
+        left: 100px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    
+    .btnphone:hover{
+        position: relative;
+        background: red;
+        color: white;
+    
+    }
+    
+    .line-phone{
+        position: relative;
+        top: -2500px;
+        width: 2px;
+        height: 45px;
+        background: red;
+        left: 40px;
+    }
+    
+    .end{
+        position: relative;
+        background-color: black;
+        width: 100%;
+        height: 80%;
+        border-radius: 5px;
+        top: -2200px;
+        left: -25px;
+    }
+    
+    .finish{
+        position: relative;
+        background: red;
+        height: 100px;
+        width: 100px;
+        text-align:center;
+        border-radius: 50%;
+        color: white;
+        left: 500px;
+        top: 50px;
+        
+    }
+    
+    h5{
+       position: relative;
+       font-style: italic;
+       color: white;
+       top: 35px;
+      
+    }
+    
+    .end-line{
+        position: relative;
+        background-color: red;
+        height: 3px;
+        width: 400px;
+        top: 100px;
+        left: 350px;
+    }
+    
+    .end h4{
+    position: relative;
+    left: 490px;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    
+    }
+    
+    .end2{
+    position: relative;
+    left: 500px;
+    color: lightslategray;
+    top: 10px;
+    left: 490px;
+    
+    }
+    
+    .end h6{
+    position: relative;
+    color: white;
+    left: 800px;
+    top: -75px;
+    font-style: italic;
+    font-size: 25px;
+    
+    }
+    
+    
+    .end3{
+        position: relative;
+        left: 500px;
+        color: lightslategray;
+        top: -70px;
+        left: 815px;
+        
+    }
+    .end3:hover{
+        text-decoration: underline red;
+        cursor: pointer;
+    }
+    
+    .end h3{
+    position: relative;
+    color: white;
+    top: 120px;
+    font-style: italic;
+    left: 150px;
+    
+    }
+    
+    .end1{
+        position: relative;
+        top: 140px;
+        font-size: 10px;
+        left: 100px;
+        color: azure;
+    
+    
+    }
+    
+    .fa-brands{
+        position: relative;
+        left: 500px;
+        top: 80px;
+        margin: 0 5px;
+    }
+    
+    .end5{
+        position: relative;
+    left: 500px;
+    color: lightslategray;
+    top: 100px;
+    left: 400px;
+    }
+    
+   
+   
+
+    
+    
+}
